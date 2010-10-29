@@ -1,5 +1,8 @@
 file 1 content
 extend
+bla2bla
+file 1 content
+blablabla3
 bla2bla aklsdf lkajsdf
 file 1 content
 asdkléfj lasdkf
