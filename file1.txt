@@ -1,2 +1,4 @@
 file 1 content
 extend
+bla2bla
+file 1 content
